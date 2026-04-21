@@ -23,5 +23,4 @@ This project analyzes a diabetes dataset to predict outcomes using basic data an
 Gullapudi Bhuvanasri Venkata Pavani
 
 ## Output
-
-![Output](output.png)
+<img src="output.png" width="600">
